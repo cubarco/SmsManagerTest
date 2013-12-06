@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmsManagerTest</string>
+    <string name="action_settings">手动校正</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="action_settings_menu">完成</string>
+    <string name="action_settings_smssend">发送短信校正</string>
+
+</resources>
